@@ -111,7 +111,6 @@ namespace _4 {
 		cout << f() << endl;
 		cout << id << endl;
 	}
-
 }
 
 }
